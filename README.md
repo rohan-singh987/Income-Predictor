@@ -10,3 +10,8 @@ There are different features one should count like:
 
 ### Counting all this stuff, I have built an Income Predictor:
 A deep learning model capable of predicting your income based on Age, Sex, Race, Education, Marital-Status, working hours/week, native country, and occupation with an accuracy of almost 85%.
+
+## Evaluation of Deep Learning Model 
+<img width="731" alt="Screenshot 2023-01-08 at 11 08 36 PM" src="https://user-images.githubusercontent.com/76906632/211210656-0b7c1796-c2a3-4423-bc4c-9afda210f20a.png">
+
+
